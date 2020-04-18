@@ -1,5 +1,5 @@
 ## Contrived web problem.
-### WEBSITE KEEPS CHANGING ITS LOOKS, read the story, something similar is happening here.
+### WEBSITE KEEPS CHANGING ITS LOOKS, read the story, something similar is happening here. (after step 10 I realised.) Since the Front-end keeps changing, look for backend, how can we access it? 
 
 1. email: l@gmail.com, pass: Pass cookie: 6a133148-d445-48ea-b1b0-99e17e85fe6a
 2. Directory search without login
@@ -782,5 +782,5 @@ data
 Grammm
 ```
 9. Previous tokens work!, but the ones associated to the same id. No known vulnerabilities in react 16.13.1 framework!
-10. 
+10. Recursive dir search after /pofile results 502 reponses, nothing there. Look for a DB??
 
