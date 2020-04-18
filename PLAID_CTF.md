@@ -770,7 +770,7 @@ can be like this:
 + 1 host(s) tested
 ```
 7. **Clusture Fucking Fuck!**
-8. These are the programs the things have been registered! (When the website with home page allows you to add, topic of the bug/post just leave it blank, these come up).
+8. These are the programs the Bug Platform has registered! (When the website with home page allows you to add, topic of the bug/post just leave it blank and save the post with any description, these come up). Don't know what these mean.
 ```
 ConfrontFinances
 Blip
