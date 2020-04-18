@@ -2,6 +2,7 @@
 
 1. email: l@gmail.com, pass: Pass
 2. Directory search without login
+```
 [15:19:44] 400 -  182B  - /%2e%2e/google.com
 [15:19:52] 502 -  584B  - /.jshintignore                            
 [15:19:52] 502 -  584B  - /.jshintrc
@@ -334,5 +335,5 @@
 [15:20:15] 502 -  584B  - /AddressBookJ2WE/services/AddressBook/wsdl/
 [15:20:15] 502 -  584B  - /addons
 [15:20:15] 502 -  584B  - /AddressBookJ2WE/services/AddressBook
-
+```
 3. My possible guess is to upload a reverse shell and exploit the website. trying Stored XSS first in the bug submission.
