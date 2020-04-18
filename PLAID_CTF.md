@@ -337,3 +337,5 @@
 [15:20:15] 502 -  584B  - /AddressBookJ2WE/services/AddressBook
 ```
 3. My possible guess is to upload a reverse shell and exploit the website. trying Stored XSS first in the bug submission.
+4. For sure an XSS, no file upload functionality.
+5. nodejs as the backend, Express library. need to bypass the XSS filter.
