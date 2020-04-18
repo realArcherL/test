@@ -769,8 +769,8 @@ can be like this:
 ---------------------------------------------------------------------------
 + 1 host(s) tested
 ```
-7. Fuck!
-8. These are the programs the things have been registered!
+7. **Clusture Fucking Fuck!**
+8. These are the programs the things have been registered! (When the website with home page allows you to add, topic of the bug/post just leave it blank, these come up).
 ```
 ConfrontFinances
 Blip
@@ -781,4 +781,6 @@ Naught Week Program
 data
 Grammm
 ```
-9. Previous tokens work!, but the ones associated to the same id.
+9. Previous tokens work!, but the ones associated to the same id. No known vulnerabilities in react 16.13.1 framework!
+10. 
+
