@@ -1,4 +1,5 @@
 ## Contrived web problem.
+### WEBSITE KEEPS CHANGING ITS LOOKS, read the story, something similar is happening here.
 
 1. email: l@gmail.com, pass: Pass cookie: 6a133148-d445-48ea-b1b0-99e17e85fe6a
 2. Directory search without login
@@ -780,4 +781,4 @@ Naught Week Program
 data
 Grammm
 ```
-
+9. Previous tokens work!, but the ones associated to the same id.
