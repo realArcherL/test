@@ -783,4 +783,4 @@ Grammm
 ```
 9. Previous tokens work!, but the ones associated to the same id. No known vulnerabilities in react 16.13.1 framework!
 10. Recursive dir search after /pofile results 502 reponses, nothing there. Look for a DB??
-
+11. something? http://contrived.pwni.ng/dist/main.js --> Seems intersting. refresh, if it doesn't open in one attempt.
