@@ -769,4 +769,15 @@ can be like this:
 + 1 host(s) tested
 ```
 7. Fuck!
+8. These are the programs the things have been registered!
+```
+ConfrontFinances
+Blip
+Programml
+Artemisian
+MaryRoad
+Naught Week Program
+data
+Grammm
+```
 
